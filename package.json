@@ -1,0 +1,20 @@
+{
+  "name": "@bythepixel/run-in-view",
+  "version": "1.0.1",
+  "description": "A utility function to run a function when an element enters the browser's viewport. ",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "cp -r src dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bythepixel/run-in-view.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bythepixel/run-in-view/issues"
+  },
+  "homepage": "https://github.com/bythepixel/run-in-view#readme"
+}
